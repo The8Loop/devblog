@@ -1,4 +1,4 @@
-baseURL = 'https://the8loop.github.io/'
+baseURL = 'https://the8loop.github.io/devblog/'
 languageCode = 'en-us'
 title = 'DevBlog'
 theme = ['XMin']
