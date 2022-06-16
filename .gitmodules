@@ -1,3 +1,6 @@
 [submodule "themes/blackburn"]
 	path = themes/blackburn
 	url = https://github.com/yoshiharuyamashita/blackburn.git
+[submodule "themes/XMin"]
+	path = themes/XMin
+	url = https://github.com/yihui/hugo-xmin

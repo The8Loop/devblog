@@ -1,5 +1,5 @@
 baseURL = 'https://the8loop.github.io/'
 languageCode = 'en-us'
 title = 'DevBlog'
-theme = ['blackburn']
+theme = ['XMin']
 publishdir = '/docs'
